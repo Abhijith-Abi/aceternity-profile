@@ -26,7 +26,7 @@ export default function NavBar() {
     return (
         <nav className="py-10 flex justify-between items-center">
             <h1 className="text-2xl font-bold underline underline-offset-8 decoration-cyan-500 -rotate-2">
-                Abhijith 👨🏻‍💻
+                Abhijith 🧑🏻‍💻
             </h1>
             <div className="flex items-center gap-5">
                 {socials?.map((social, index) => {

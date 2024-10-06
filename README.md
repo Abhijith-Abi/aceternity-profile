@@ -22,7 +22,7 @@ Feel free to reach out if you want to collaborate on a project, have any questio
 
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/abhijith-pa/)
 - **GitHub**: [GitHub Profile](https://github.com/Abhijith-Abi)
-- **Email**: [your-email@example.com](mailto:abhijithabhijith1999@gmail.com)
+- **Email**: [Me](mailto:abhijithabhijith1999@gmail.com)
 
 ## License
 
